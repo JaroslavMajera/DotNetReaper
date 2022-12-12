@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DotNetReaper": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
